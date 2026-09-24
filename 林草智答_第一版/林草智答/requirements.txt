@@ -1,4 +1,0 @@
-streamlit
-openai
-numpy
-python-docx
